@@ -1,4 +1,5 @@
 import React from "react";
+import { ParallaxLayer } from "@react-spring/parallax";
 
 import building from "../images/layers/building-main.png";
 
